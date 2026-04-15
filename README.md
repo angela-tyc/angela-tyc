@@ -2,11 +2,9 @@
 
 Welcome to my GitHub profile! 
 
-## 🚀 About Me
+## 👶🏻 About Me
 
-I'm a Master's student in Engineering at **UCLA**.
-
-- 🌱 Currently exploring AI/ML applications and web development technologies
+Master's student in Engineering at **UCLA**. Currently exploring AI/ML applications and web development technologies.🌱
 
 ## 🛠️ Tech Stack & Skills
 
@@ -20,10 +18,9 @@ I'm a Master's student in Engineering at **UCLA**.
 ## 🎓 Interests & Focus Areas
 
 - 🤖 **Artificial Intelligence & Machine Learning** – Building intelligent systems and exploring deep learning
-- 🌐 **Web Development** – Creating dynamic, responsive, and user-friendly applications
-- 🔓 **Open Source** – Contributing to and building open-source projects for the community
+- 🌐 **Web Development**
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect!
 
 - **GitHub:** [@angela-tyc](https://github.com/angela-tyc)
 - **LinkedIn:** [Angela Chen](https://www.linkedin.com/in/tzu-yuchen/)
