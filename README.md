@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! 
 
-## 👶🏻 About Me
+## 🌱 About Me
 
-Master's student in Engineering at **UCLA**. Currently exploring AI/ML applications and web development technologies.🌱
+Master's student in Engineering at **UCLA**. Currently exploring AI/ML applications and web development technologies.
 
 ## 🛠️ Tech Stack & Skills
 
@@ -15,10 +15,10 @@ Master's student in Engineering at **UCLA**. Currently exploring AI/ML applicati
 
 *More projects coming soon! Explore my repositories to see what I'm building.*
 
-## 🎓 Interests & Focus Areas
+## 🌐 Interests & Focus Areas
 
-- 🤖 **Artificial Intelligence & Machine Learning** – Building intelligent systems and exploring deep learning
-- 🌐 **Web Development**
+- **Artificial Intelligence & Machine Learning**
+-  **Web Development**
 
 ## 🤝 Let's Connect!
 
