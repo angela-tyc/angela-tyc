@@ -4,17 +4,13 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-I'm a Master's student in Engineering at **UCLA** and will be interning as an **AI/ML Engineer**. I'm committed to continuous learning and staying at the forefront of technology.
+I'm a Master's student in Engineering at **UCLA**.
 
-- 🔭 Currently exploring AI/ML applications and web development technologies
-- 🌱 Always learning and growing as a full-stack developer and ML engineer
-
+- 🌱 Currently exploring AI/ML applications and web development technologies
 
 ## 🛠️ Tech Stack & Skills
 
 - **Languages:** Python, JavaScript, C++, SQL, JavaScript, TypeScript, R, HTML, CSS
-- **Frameworks & Libraries:** React, TensorFlow, PyTorch, Scikit-learn
-- **Tools & Platforms:** Git, Docker, Jupyter, VS Code
 - **Specializations:** Machine Learning, Deep Learning, Web Development, Full-Stack Development
 
 ## 🎯 Featured Projects
@@ -31,7 +27,6 @@ I'm a Master's student in Engineering at **UCLA** and will be interning as an **
 
 - **GitHub:** [@angela-tyc](https://github.com/angela-tyc)
 - **LinkedIn:** [Angela Chen](https://www.linkedin.com/in/tzu-yuchen/)
-- [Feel free to DM me on LinkedIn]
 
 
 ---
