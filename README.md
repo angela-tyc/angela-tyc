@@ -19,11 +19,6 @@ I'm a Master's student in Engineering at **UCLA** and will be interning as an **
 
 ## 🎯 Featured Projects
 
-### Covo
-An application that demonstrates my passion for creating meaningful, user-centric applications.
-
-**[Check out Covo](link-to-covo-repo)**
-
 *More projects coming soon! Explore my repositories to see what I'm building.*
 
 ## 🎓 Interests & Focus Areas
