@@ -26,12 +26,6 @@ An application that demonstrates my passion for creating meaningful, user-centri
 
 *More projects coming soon! Explore my repositories to see what I'm building.*
 
-## 📊 GitHub Statistics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=angela-tyc&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angela-tyc&layout=compact&theme=radical)
-
 ## 🎓 Interests & Focus Areas
 
 - 🤖 **Artificial Intelligence & Machine Learning** – Building intelligent systems and exploring deep learning
