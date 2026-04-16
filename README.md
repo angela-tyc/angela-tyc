@@ -8,16 +8,13 @@ Master's student in Engineering at UCLA. Currently exploring AI/ML applications 
 
 **Frameworks:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-**Specializations:** Machine Learning, Deep Learning, Web Development, Full-Stack Development
-
 ## Featured Projects
 
 *More projects coming soon! Explore my repositories to see what I'm building.*
 
 ## Interests & Focus Areas
 
-- **Artificial Intelligence & Machine Learning**
--  **Web Development**
+Machine Learning, Deep Learning, Web Development, Full-Stack Development
 
 ## Let's Connect!
 
