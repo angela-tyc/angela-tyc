@@ -20,7 +20,7 @@ Machine Learning, Deep Learning, Web Development, Full-Stack Development
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/angela-tyc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tzu-yuchen/)
 
-![Angela's GitHub stats](https://vercel.app)
+[![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angela-tyc)](https://github.com/angela-tyc/github-readme-stats)
 
 
 ---
