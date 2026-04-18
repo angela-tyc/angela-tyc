@@ -29,10 +29,10 @@ Machine Learning, Deep Learning, Web Development, Full-Stack Development
 
 
 <a href="https://github.com/angela-tyc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angela-tyc&theme=transparent&rank_icon=github&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angela-tyc&theme=transparent&rank_icon=github" />
 </a>
 <a href="https://github.com/angela-tyc/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela-tyc&hide=kotlin,processing&layout=compact&theme=gruvbox_light&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angela-tyc&hide=kotlin,processing&layout=compact&theme=swift&langs_count=8" />
 </a>
 
 ---
